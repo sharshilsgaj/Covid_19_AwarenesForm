@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://www.fda.gov/files/covid19-1600x900.jpg);
+    background-size: cover;
+    text-align: center;  
+}
+
+form{
+    background-color: lightpink;
+    margin: 2% 10%;
+    padding: 50px;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 20px;
+    color: gold;
+}
+
+label{
+    font-size: 20px;
+}
+
+#button{
+background-color: lawngreen;
+font-size: 30px;
+border-radius: 10px;
+margin: 2% 10%;
+text-align: right;
+}
